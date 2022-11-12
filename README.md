@@ -1,15 +1,12 @@
-
-# Hi, I'm Aravindraj!
+# Hi, I'm Aravindray!
 
 I am electronic engineer, Cosmos Lover!
 
 ![New card for gmail](https://user-images.githubusercontent.com/68138580/200120666-9c0e0f3d-9e6e-4388-b53d-9b5eff6d83c7.png)
 
-
-##  Skills
+## Skills
 
 Noting to add, but I am learning...
-
 
 ## Other Social Media
 
