@@ -13,3 +13,11 @@ I decided to learn back-end first, so I borrowed a book (Book Name: Python progr
     * [Basics]()
     * [Python](https://github.com/Aravindray/Python/blob/main/README.md)
     * [Django]()
+
+
+
+# Project Ideas
+
+1. Personal Budget Tracker
+2. Blog website look like youtube style
+3. My Version of To Do
