@@ -1,1 +1,4 @@
 How to login and setup in git?
+
+add name - git config --global user.name "your_name"
+add email - git config --global user.email "your_email"
