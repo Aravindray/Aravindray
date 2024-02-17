@@ -18,3 +18,8 @@ Once you decided the format we have to save it in registry editor. The format I 
 Open the cmd prompt as admin and type this command
 
         powercfg /batteryreport /output "D:\battery_report.html"
+
+
+### How to turn off external devices wake up PC? 
+
+open device manager select _HID Keyboard Device & ID-compliant mouse_ go to Properties then select Power Management tab and uncheck **Allow this device to wake the computer**
