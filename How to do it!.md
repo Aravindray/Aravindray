@@ -11,3 +11,10 @@ To add email - git config --global user.email "your_email"
 This 3 arrows is called prompt >>> in python or c:\Users\name> in windows terminal. For more information type **prompt /?**.
 
 Once you decided the format we have to save it in registry editor. The format I chose is Date & Time | Path > 
+
+
+### How to download PC Battery Report in windows 10/11
+
+Open the cmd prompt as admin and type this command
+
+        powercfg /batteryreport /output "D:\battery_report.html"
