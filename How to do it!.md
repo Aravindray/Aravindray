@@ -2,11 +2,14 @@
 
 ## Table of Content
 
-   - [How to login and setup in git?](#how-to-login-and-setup-in-git)
-   - [How to add date \& time in command prompt or terminal in windows PC?](#how-to-add-date--time-in-command-prompt-or-terminal-in-windows-pc)
-   - [How to download PC Battery Report in windows 10/11](#how-to-download-pc-battery-report-in-windows-1011)
-   - [How to turn off external devices wake up PC?](#how-to-turn-off-external-devices-wake-up-pc)
-   - [How to import modules from different folders in python?](#how-to-import-modules-from-different-folders-in-python)
+- [How to do it?](#how-to-do-it)
+  - [Table of Content](#table-of-content)
+    - [How to login and setup in git?](#how-to-login-and-setup-in-git)
+    - [How to add date \& time in command prompt or terminal in windows PC?](#how-to-add-date--time-in-command-prompt-or-terminal-in-windows-pc)
+    - [How to download PC Battery Report in windows 10/11](#how-to-download-pc-battery-report-in-windows-1011)
+    - [How to turn off external devices wake up PC?](#how-to-turn-off-external-devices-wake-up-pc)
+    - [How to import modules from different folders in python?](#how-to-import-modules-from-different-folders-in-python)
+    - [How to open MS Store using Run?](#how-to-open-ms-store-using-run)
 
 
 ### How to login and setup in git?
@@ -48,7 +51,6 @@ import sys
 sys.path.append('d:\\Github\\Python\\JAN2024')
 from person import Person
 ```
-
 
 ### How to open MS Store using Run?
 
