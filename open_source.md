@@ -1,20 +1,24 @@
 ## Table of content
 
-
+- [2024](#2024)
+    - [Photoshop](#photoshop)
+    - [Illustrator](#illustrator)
+    - [3D Modeling](#3d-modeling)
+    - [Video Editing](#video-editing)
 
 # 2024
 
-## Photoshop
+### Photoshop
 
-1. GIMP
-2. Krita (for digital painting)
+- GIMP
+- Krita (for digital painting)
 
-## Illustrator
+### Illustrator
 
-1. Inkscape
+- Inkscape
 
-## 3D Modeling
+### 3D Modeling
 
-1. Blender
+- Blender
 
-## Video Editing
+### Video Editing
