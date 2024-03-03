@@ -38,7 +38,6 @@ powercfg /batteryreport /output "D:\battery_report.html"
 
 open device manager select _HID Keyboard Device & ID-compliant mouse_ go to Properties then select Power Management tab and uncheck **Allow this device to wake the computer**
 
-
 ### How to import modules from different folders in python?
 
 Question: I have _person.py_ script inside the **JAN2024** folder and I have another folder called **FEB2024** which have _employee.py_ script I need to import _person.py_ script to use it as a base class of _employee.py_, how to import it in python?<br>
@@ -57,3 +56,7 @@ from person import Person
 ```
 ms-windows-store:updates
 ```
+
+### How to clear cache and temp files in windows PC?
+
+Recursive Task for every month first day or week.
