@@ -1,5 +1,6 @@
 ## Table of Content
 
+- [Style Block](#style-block)
 - [How to do it?](#how-to-do-it)
     - [How to login and setup in git?](#how-to-login-and-setup-in-git)
     - [How to add date \& time in command prompt or terminal in windows PC?](#how-to-add-date--time-in-command-prompt-or-terminal-in-windows-pc)
@@ -7,8 +8,16 @@
     - [How to turn off external devices wake up PC?](#how-to-turn-off-external-devices-wake-up-pc)
     - [How to import modules from different folders in python?](#how-to-import-modules-from-different-folders-in-python)
     - [How to open MS Store using Run?](#how-to-open-ms-store-using-run)
+    - [How to clear cache and temp files in windows PC?](#how-to-clear-cache-and-temp-files-in-windows-pc)
 
 <br>
+
+# Style Block
+
+<style>
+    red {color: Red}
+    green {color: Green}
+</style>
 
 # How to do it?
 
@@ -29,7 +38,7 @@ Once you decided the format we have to save it in registry editor. The format I 
 
 Open the cmd prompt as admin and type this command
 
-```
+```command line interface
 powercfg /batteryreport /output "D:\battery_report.html"
 ```
 
@@ -53,10 +62,20 @@ from person import Person
 
 ### How to open MS Store using Run?
 
-```
+```command line interface
 ms-windows-store:updates
 ```
 
 ### How to clear cache and temp files in windows PC?
 
-Recursive Task for every month first day or week.
+Recursive Task for every month first day or week ҉
+
+Step 1: Go to Local Disk (C:) > Windows > SoftwareDistribution > Download > <red>Inside Download Deleted All</red> <br>
+Step 2: Open Run > %temp% > <red>Inside temp Deleted All</red> <br> Another method to open this folder is going through User Name > AppData > Local > Temp > <red>...</red> <br>
+Step 3: Open Run > temp > click continue > <red>Inside temp Deleted All</red> <br> Another method to open this folder is going through This PC > Local Disk (C:) > Windows > Temp > <red>...</red> <br>
+Step 4: Open Run > prefetch > click continue > <red>Inside prefetch Deleted All</red> <br> Another method to open this folder is going through This PC > Local Disk (C:) > Windows > Prefetch > <red>...</red>  <br>
+Step 5: To reset windows store > Open Run > wsreset > <red>This will clear the cache for windows store</red> <br>
+Step 6: Go to Edge > <red>Clear browser cache and cookies</red> <br>
+Step 7: click windows key + s > type clear location history > <red>click clear</red> <br>
+Step 8: Go to CMD as administrator > <red>type ```ipconfig /flushDNS```</red> <br>
+Step 9: Advance --- Disk Cleanup > Select Disk > recommended to watch the video in youtube for reference
