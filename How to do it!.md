@@ -9,6 +9,7 @@
     - [How to import modules from different folders in python?](#how-to-import-modules-from-different-folders-in-python)
     - [How to open MS Store using Run?](#how-to-open-ms-store-using-run)
     - [How to clear cache and temp files in windows PC?](#how-to-clear-cache-and-temp-files-in-windows-pc)
+    - [How to install MySql in windows 10/11?](#how-to-install-mysql-in-windows-1011)
 
 <br>
 
