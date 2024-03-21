@@ -79,3 +79,13 @@ Step 6: Go to Edge > <red>Clear browser cache and cookies</red> <br>
 Step 7: click windows key + s > type clear location history > <red>click clear</red> <br>
 Step 8: Go to CMD as administrator > <red>type ```ipconfig /flushDNS```</red> <br>
 Step 9: Advance --- Disk Cleanup > Select Disk > recommended to watch the video in youtube for reference
+
+### How to install MySql in windows 10/11?
+
+First download and install [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
+At this time my system is 64 bit and go to [MySql Webiste](https://dev.mysql.com/downloads/installer/)
+
+Then download the Windows (x86, 32-bit), MSI Installer with maximum MB (the second one)
+
+Don't need to sign just click download without signin.
