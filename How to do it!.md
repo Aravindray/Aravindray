@@ -10,6 +10,7 @@
     - [How to open MS Store using Run?](#how-to-open-ms-store-using-run)
     - [How to clear cache and temp files in windows PC?](#how-to-clear-cache-and-temp-files-in-windows-pc)
     - [How to install MySql in windows 10/11?](#how-to-install-mysql-in-windows-1011)
+    - [How to activate create and activate virtual environment in python?](#how-to-activate-create-and-activate-virtual-environment-in-python)
 
 <br>
 
@@ -90,3 +91,7 @@ At this time my system is 64 bit and go to [MySql Webiste](https://dev.mysql.com
 Then download the Windows (x86, 32-bit), MSI Installer with maximum MB (the second one)
 
 Don't need to sign just click download without signin.
+
+### How to activate create and activate virtual environment in python?
+
+Working of finding answers!
