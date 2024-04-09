@@ -90,7 +90,7 @@ At this time my system is 64 bit and go to [MySql Webiste](https://dev.mysql.com
 
 Then download the Windows (x86, 32-bit), MSI Installer with maximum MB (the second one)
 
-Don't need to sign just click download without signin.
+Don't need to sign in just click download without sign in.
 
 ### How to activate create and activate virtual environment in python?
 
