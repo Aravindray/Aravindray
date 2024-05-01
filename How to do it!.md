@@ -101,5 +101,5 @@ Working of finding answers!
 
 Check out this article [Install NodeJS on Windows](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-windows)
 
-First Download <abbr title="Node Version Manager">NVM</abbr> from [NVM For Windows](https://github.com/coreybutler/nvm-windows#installation--upgrades) click Download Now! refer the ![Image](https://github.com/Aravindray/Aravindray/blob/main/assets/NVM%20Select%20Download%20Now.png), then select nvm-setup.exe to download and then install it.
+First Download <abbr title="Node Version Manager">NVM</abbr> from [NVM For Windows](https://github.com/coreybutler/nvm-windows#installation--upgrades) click Download Now! refer the below image ![Image](https://github.com/Aravindray/Aravindray/blob/main/assets/NVM%20Select%20Download%20Now.png), then select nvm-setup.exe to download and then install it.
 After that open PowerShell as Admin, and check the available version with this command ```nvm list available``` and choose the LTS version you needed, then install the node js with this command ```nvm install <version>``` (replacing ```<version>``` with the **number**, ie: ```nvm install 12.14.0```). To confirm the download use this command to check the installed version number with this command ```nvm ls``` and check the 9th, 10th and 11th points from the above attached article.
