@@ -12,6 +12,7 @@
     - [How to install MySql in windows 10/11?](#how-to-install-mysql-in-windows-1011)
     - [How to create and activate virtual environment in python?](#how-to-create-and-activate-virtual-environment-in-python)
     - [What are the requirements needed to work with JavaScript in Windows PC?](#what-are-the-requirements-needed-to-work-with-javascript-in-windows-pc)
+    - [How to connect WiFi FTP Server in Windows PC?](#how-to-connect-wifi-ftp-server-in-windows-pc)
 
 <br>
 
@@ -103,3 +104,13 @@ Check out this article [Install NodeJS on Windows](https://learn.microsoft.com/e
 
 First Download <abbr title="Node Version Manager">NVM</abbr> from [NVM For Windows](https://github.com/coreybutler/nvm-windows#installation--upgrades) click Download Now! refer the below image ![Image](https://github.com/Aravindray/Aravindray/blob/main/assets/NVM%20Select%20Download%20Now.png), then select nvm-setup.exe to download and then install it.
 After that open PowerShell as Admin, and check the available version with this command ```nvm list available``` and choose the LTS version you needed, then install the node js with this command ```nvm install <version>``` (replacing ```<version>``` with the **number**, ie: ```nvm install 12.14.0```). To confirm the download use this command to check the installed version number with this command ```nvm ls``` and check the 9th, 10th and 11th points from the above attached article.
+
+### How to connect WiFi FTP Server in Windows PC?
+
+1. Open File Explorer (with Windows + E)
+2. Right-Click the program and select **Add a network location**
+3. New setup wizard will appear click and select **Choose a custom network location**
+4. Then enter the FTP server URL ```ftp://XXX.XXX.XX.X:XXXX``` and don't forgot to **turn off "Log on Anonymously**
+5. Then enter the user name, and then enter the display name.
+6. A new window asks userid and password enter the password and save the password for future connections.
+7. Now ready to use.
