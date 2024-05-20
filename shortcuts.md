@@ -9,3 +9,4 @@
 
 1. Delete a letter - use ```Backspace``` to delete a letter from left side of the cursor | use ```Delete``` to delete a letter from right side of the cursor.
 2. Delete a word - use ```Ctrl + Backspace``` to delete a word from left side of the cursor | use ```Ctrl + Delete``` to delete a word from right side of the cursor.
+3. Delete a line - use ```shift + Delete``` to delete the blinking cursor entire line.
