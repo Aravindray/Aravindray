@@ -114,3 +114,13 @@ After that open PowerShell as Admin, and check the available version with this c
 5. Then enter the user name, and then enter the display name.
 6. A new window asks userid and password enter the password and save the password for future connections.
 7. Now ready to use.
+
+### How to fetch all files name from a folder and store it as desire file format (ex. csv, xlsx, txt)
+
+**By Using cmd prompt**
+1. Go to the folder where you want to file names from.
+2. Open the cmd prompt from that folder
+3. Then type the below command
+```cmd
+dir /b > fileName.txt
+```
