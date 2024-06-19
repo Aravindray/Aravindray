@@ -13,6 +13,7 @@
     - [How to create and activate virtual environment in python?](#how-to-create-and-activate-virtual-environment-in-python)
     - [What are the requirements needed to work with JavaScript in Windows PC?](#what-are-the-requirements-needed-to-work-with-javascript-in-windows-pc)
     - [How to connect WiFi FTP Server in Windows PC?](#how-to-connect-wifi-ftp-server-in-windows-pc)
+    - [How to fetch all files name from a folder and store it as desire file format (ex. csv, xlsx, txt)](#how-to-fetch-all-files-name-from-a-folder-and-store-it-as-desire-file-format-ex-csv-xlsx-txt)
 
 <br>
 
