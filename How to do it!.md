@@ -14,6 +14,7 @@
     - [What are the requirements needed to work with JavaScript in Windows PC?](#what-are-the-requirements-needed-to-work-with-javascript-in-windows-pc)
     - [How to connect WiFi FTP Server in Windows PC?](#how-to-connect-wifi-ftp-server-in-windows-pc)
     - [How to fetch all files name from a folder and store it as desire file format (ex. csv, xlsx, txt)](#how-to-fetch-all-files-name-from-a-folder-and-store-it-as-desire-file-format-ex-csv-xlsx-txt)
+    - [How to create / delete folder and files using windows command prompt?](#how-to-create--delete-folder-and-files-using-windows-command-prompt)
 
 <br>
 
@@ -124,4 +125,62 @@ After that open PowerShell as Admin, and check the available version with this c
 3. Then type the below command
 ```cmd
 dir /b > fileName.txt
+```
+
+### How to create / delete folder and files using windows command prompt?
+
+**Create Folder**
+
+To create a folder go to the desire folder and type this cmd:
+
+```cmd
+> mkdir folderName
+> mkdir "folder name" # Use quoting if space separated name
+> mkdir folder name # If you did not use the quotation it will create two different folders
+```
+
+**Create File**
+
+Windows cmd prompt support 3 different way to create a file within a folder
+
+1. Using *echo* cmd - We have enter the content while creating the file.
+
+```cmd
+> echo Text goes here > filename.extension
+```
+
+2. Using *copy con*  cmd - Unlike echo, we only need to enter the content after we create the file.
+
+```cmd
+> copy con filename.extension
+```
+
+Note: To save the file press ctrl + z or to quit hit ctrl + c within the prompt section.
+
+3. Using *notepad* cmd - This opens the dialog box click "Yes" and enter the content within in the notepad application and save the file within the application.
+
+```cmd
+> notepad filename.extension
+```
+
+**NOTE:** To view the content from a file use this cmd:
+
+```cmd
+> type filename.extension
+```
+
+**Delete Folder**
+
+To delete the folder go to the desire folder parent directory and enter the below cmd:
+
+```cmd
+> rmdir folderName
+```
+
+**Delete File**
+
+To delete a file go to desire file location and enter the below cmd:
+
+```cmd
+del filename.extension
 ```
